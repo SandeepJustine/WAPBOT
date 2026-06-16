@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MuPharmacy Bot V2
 
@@ -14,3 +15,7 @@ Commands:
 !price panadol
 !stock augmentin
 !help
+=======
+# WAPBOT
+A web WhatsApp Bot using Baileys Library
+>>>>>>> ea907a098f28b0fa4539a07a918e8baadcf31739

@@ -1,0 +1,26 @@
+{
+  "name": "mupharmacy-bot-v2",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "axios": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "fuse.js": "latest",
+    "mongodb": "latest",
+    "openai": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/express": "latest",
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
